@@ -8,7 +8,7 @@ here is a little about me...
 The University of Waterloo for Mechatronics Engineering
 
 # 🔭 Working on:
-I spend most of my time working on the perception sub-team at Watonomous to make autonomous cars see
+I spend most of my free time working on the perception sub-team at Watonomous to make autonomous cars see
 
 I also have a few projects that I am continually developing like the [Professor-Puddles-App](https://github.com/lucasreljic/Professor-Puddles-App)
 
