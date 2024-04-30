@@ -4,7 +4,7 @@ I'm Lucas,
 
 A long time robotics enthusiast, starting at age 11 I was a member of a junior engineering club called Roots2Stem. I continually worked on various projects with my last project, an electric gokart, my greatest accomplishment there. Since then, I have gone through 5 years of FIRST Robotics, becoming the programming lead for my school's team and in the final year given the role of team captain. Recently, I spent 8 months working on a humanoid robot for GoodLabs Studio.
 
-here is a little more about me...
+here is more about me...
 
 # 🌱 Studying at:
 The University of Waterloo for Mechatronics Engineering
@@ -15,8 +15,7 @@ I spend most of my free time working on the perception sub-team at Watonomous to
 I also have a few projects that I am continually developing.
 
 # 📫 Reach out:
-Wanna learn more about what I am doing or if you wanna chat about potential projects, send me a message at 
-
+Wanna learn more about what I am doing or if you wanna chat about potential projects, email me at [lucas.reljic@gmail.com](mailto:lucas.reljic@gmail.com) or send me a message at 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-reljic) 
 
 # ⚡ Stats:
