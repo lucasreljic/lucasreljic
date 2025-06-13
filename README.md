@@ -2,7 +2,7 @@
 
 I'm Lucas, 
 
-A long time robotics enthusiast, starting at age 11 I was a member of a junior engineering club called Roots2Stem. I continually worked on various projects with my last project, an electric gokart, my greatest accomplishment there. Since then, I have gone through 5 years of FIRST Robotics, becoming the programming lead for my school's team and in the final year given the role of team captain. Recently, I spent 8 months working on a humanoid robot for GoodLabs Studio.
+A long time robotics enthusiast, starting at age 11 I was a member of a junior engineering club called Roots2Stem. I continually worked on various projects with my last project, an electric gokart, my greatest accomplishment there. Since then, I have gone through 5 years of FIRST Robotics, becoming the programming lead for my school's team and in the final year given the role of team captain. Recently, I spent 12 months working on a humanoid robot for GoodLabs Studio. Now I'm working at ENVGO as a Autonomy Software Developer making an autonomous electric boat.
 
 here is more about me...
 
