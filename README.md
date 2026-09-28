@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Lucas, 
+I'm Lucas,
 
-A long time robotics enthusiast, starting at age 11 I was a member of a junior engineering club called Roots2Stem. I continually worked on various projects with my last project, an electric gokart, my greatest accomplishment there. Since then, I have gone through 5 years of FIRST Robotics, becoming the programming lead for my school's team and in the final year given the role of team captain. Recently, I spent 12 months working on a humanoid robot for GoodLabs Studio. I worked for 8 months at ENVGO as an Autonomy Software Developer, making an autonomous electric boat see. Now I am working at Deep Trekker developing perception capabilities (Stereo Cameras + SLAM) for deep-sea high-current ROVs.
+A lifelong robotics enthusiast. It started at age 11 in a junior engineering club called Roots2Stem, where I worked on a bunch of projects; the one I'm proudest of is an electric go-kart I built there. From there, I spent 5 years in FIRST Robotics, becoming my school team's programming lead and, in my final year, team captain. More recently, I spent 12 months building a humanoid robot at GoodLabs Studio, then 8 months at ENVGO as an Autonomy Software Developer teaching an autonomous electric boat to see. Most recently, I was at DeepTrekker developing perception (stereo cameras + SLAM) for deep-sea, high-current ROVs. Alongside all of this, I've spent the past two years on perception for Watonomous' self-driving car, the last 6 months of it as Director of the team, achieving multiple successful test runs of our fully autonomous vehicle.
 
 Here is more about me...
 
