@@ -4,6 +4,8 @@ I'm Lucas,
 
 A lifelong robotics enthusiast. It started at age 11 in a junior engineering club called Roots2Stem, where I worked on a bunch of projects; the one I'm proudest of is an electric go-kart I built there. From there, I spent 5 years in FIRST Robotics, becoming my school team's programming lead and, in my final year, team captain. More recently, I spent 12 months building a humanoid robot at GoodLabs Studio, then 8 months at ENVGO as an Autonomy Software Developer teaching an autonomous electric boat to see. Most recently, I was at DeepTrekker developing perception (stereo cameras + SLAM) for deep-sea, high-current ROVs. Alongside all of this, I've spent the past two years on perception for Watonomous' self-driving car, the last 6 months of it as Director of the team, achieving multiple successful test runs of our fully autonomous vehicle.
 
+Check out my website to see photos of my experiences: https://lucasreljic.me
+
 Here is more about me...
 
 # 🌱 Studying at:
